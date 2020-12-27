@@ -1,0 +1,15 @@
+[Unit]
+Description=Discord-bot Economia
+StartLimitBurst=50
+StartLimitIntervalSec=30
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=ilja
+WorkingDirectory=/home/ilja/Economia
+ExecStart=/home/ilja/Economia/bot.py
+
+[Install]
+WantedBy=multi-user.target

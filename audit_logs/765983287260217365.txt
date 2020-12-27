@@ -1,0 +1,74 @@
+JustMe#8491 did AuditLogAction.invite_create to https://discord.gg/KuRQFVhM + 783969078444032000
+JustMe#8491 did AuditLogAction.invite_delete to https://discord.gg/MSXdkNFn + 783969059993419816
+JustMe#8491 did AuditLogAction.invite_create to https://discord.gg/MSXdkNFn + 783968996809900073
+JustMe#8491 did AuditLogAction.role_update to Spectator + 783968927352487937
+JustMe#8491 did AuditLogAction.role_update to Spectator + 783968752747151361
+JustMe#8491 did AuditLogAction.role_update to Spectator + 783968734985322527
+JustMe#8491 did AuditLogAction.role_create to Spectator + 783968695872782357
+JustMe#8491 did AuditLogAction.bot_add to ModPlus#0338 + 783966114744893462
+JustMe#8491 did AuditLogAction.channel_update to tester + 783965499544829964
+JustMe#8491 did AuditLogAction.channel_update to tester + 783965469186588692
+JustMe#8491 did AuditLogAction.channel_delete to <Object id=765987193683968051> + 783965423644704808
+JustMe#8491 did AuditLogAction.guild_update to Bot Playground + 783965298696912897
+JustMe#8491 did AuditLogAction.bot_add to Economia#5294 + 783963260764028930
+JustMe#8491 did AuditLogAction.bot_add to Economia-beta#3263 + 783963083152162816
+JustMe#8491 did AuditLogAction.channel_create to testing-3 + 783962365942824981
+JustMe#8491 did AuditLogAction.channel_create to testing-2 + 783962317767049238
+JustMe#8491 did AuditLogAction.channel_create to testing-1 + 783962305791655957
+JustMe#8491 did AuditLogAction.channel_create to testing-3 + 783962284535578625
+JustMe#8491 did AuditLogAction.channel_create to testing-2 + 783962264919081011
+JustMe#8491 did AuditLogAction.channel_create to testing-1 + 783962238759337986
+JustMe#8491 did AuditLogAction.channel_create to Snowflake + 783962203509227551
+JustMe#8491 did AuditLogAction.channel_create to Economia + 783962146563817474
+JustMe#8491 did AuditLogAction.channel_create to testing-3 + 783962106210549781
+JustMe#8491 did AuditLogAction.channel_create to testing-2 + 783962067568820265
+JustMe#8491 did AuditLogAction.channel_create to testing-1 + 783962043245133855
+JustMe#8491 did AuditLogAction.channel_create to ModPlus + 783961998458880001
+JustMe#8491 did AuditLogAction.channel_update to GENERAL + 783961719839785000
+JustMe#8491 did AuditLogAction.channel_update to MUSIC + 783961660985311254
+JustMe#8491 did AuditLogAction.channel_update to BACHOBOT + 783961625002246145
+JustMe#8491 did AuditLogAction.guild_update to Bot Playground + 783961569448165386
+JustMe#8491 did AuditLogAction.member_role_update to BachoBeta#1043 + 778285330113364019
+BachoBeta#1043 did AuditLogAction.member_role_update to JustMe#8491 + 778205262216429579
+BachoBeta#1043 did AuditLogAction.member_role_update to JustMe#8491 + 778205260044828692
+BachoBeta#1043 did AuditLogAction.member_role_update to JustMe#8491 + 778205240021090334
+BachoBeta#1043 did AuditLogAction.member_role_update to JustMe#8491 + 778205231719645235
+JustMe#8491 did AuditLogAction.member_role_update to JustMe#8491 + 778205187810263070
+JustMe#8491 did AuditLogAction.member_role_update to JustMe#8491 + 778205183423152128
+BachoBeta#1043 did AuditLogAction.member_role_update to JustMe#8491 + 778204768421675018
+BachoBeta#1043 did AuditLogAction.member_role_update to JustMe#8491 + 778204749865418782
+BachoBeta#1043 did AuditLogAction.member_role_update to BachoBeta#1043 + 778204744409415681
+JustMe#8491 did AuditLogAction.role_update to Test-Role2 + 778204672917241887
+JustMe#8491 did AuditLogAction.role_create to Test-Role2 + 778204626360860683
+JustMe#8491 did AuditLogAction.role_update to Test-Role1 + 778204586480762881
+JustMe#8491 did AuditLogAction.role_create to Test-Role1 + 778204555078139936
+!💀Nermin Bačić💀!#9431 did AuditLogAction.guild_update to Bot Playground + 772933404932309082
+!💀Nermin Bačić💀!#9431 did AuditLogAction.guild_update to Bot Playground + 772932742753157151
+JustMe#8491 did AuditLogAction.emoji_create to <:crossmark:772900239517417523> + 772900239517417525
+JustMe#8491 did AuditLogAction.guild_update to Bot Playground + 772823056661479424
+JustMe#8491 did AuditLogAction.guild_update to Bot Playground + 772823012402528307
+JustMe#8491 did AuditLogAction.guild_update to Bot Playground + 772822980563959818
+JustMe#8491 did AuditLogAction.role_update to Bot Manager + 772822630482051143
+JustMe#8491 did AuditLogAction.role_update to Bot Manager + 772807225123143701
+JustMe#8491 did AuditLogAction.guild_update to Bot Playground + 772783712781467648
+JustMe#8491 did AuditLogAction.member_role_update to buxit#2570 + 772598247118077972
+JustMe#8491 did AuditLogAction.member_role_update to buxit#2570 + 772598085099585588
+JustMe#8491 did AuditLogAction.member_role_update to buxit#2570 + 772598082977792010
+BachoBeta#1043 did AuditLogAction.member_update to BachoBeta#1043 + 772586203781398539
+JustMe#8491 did AuditLogAction.member_role_update to buxit#2570 + 772580726368894996
+JustMe#8491 did AuditLogAction.member_role_update to buxit#2570 + 772580723042811905
+JustMe#8491 did AuditLogAction.bot_add to BachoBeta#1043 + 772578080874299392
+JustMe#8491 did AuditLogAction.invite_create to https://discord.gg/rw3gJDVm + 772167139670884394
+BachoBot#8289 did AuditLogAction.member_update to BachoBot#8289 + 772076391889371137
+BachoBot#8289 did AuditLogAction.member_update to BachoBot#8289 + 772051339513167912
+BachoBot#8289 did AuditLogAction.member_update to BachoBot#8289 + 771879305344057426
+BachoBot#8289 did AuditLogAction.member_update to BachoBot#8289 + 771879264995770390
+JustMe#8491 did AuditLogAction.member_update to BachoBot#8289 + 771878483600736278
+JustMe#8491 did AuditLogAction.member_update to BachoBot#8289 + 771878390596108298
+JustMe#8491 did AuditLogAction.member_role_update to JustMe#8491 + 770670093151371325
+JustMe#8491 did AuditLogAction.member_role_update to !💀Nermin Bačić💀!#9431 + 770669858487533578
+JustMe#8491 did AuditLogAction.role_update to Bot Manager + 770669822164992033
+JustMe#8491 did AuditLogAction.role_create to Bot Manager + 770669793597980693
+JustMe#8491 did AuditLogAction.role_delete to <Object id=770280474026967080> + 770362680833081345
+JustMe#8491 did AuditLogAction.role_update to <Object id=770280474026967080> + 770280602397573151
+JustMe#8491 did AuditLogAction.role_create to <Object id=770280474026967080> + 770280474026967081
