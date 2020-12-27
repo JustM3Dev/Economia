@@ -16,8 +16,8 @@ When the bot says its online, go to your dc developer Portal and invite it to yo
 Feel free to use my code in your own projects. But please be sure to credit me somewhere. Thanks!
 ----
 #### Made with
-Discord.py
-Python
+#### Discord.py
+#### Python
 ----
 ##### Copyright
 (c) Ilja Busch 2020
